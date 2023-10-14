@@ -1,0 +1,26 @@
+```{r}
+# Load libraries
+library(dplyr)
+library(ggplot2)
+```
+
+```{r}
+# Load the data into R
+data <- read.csv("~/Downloads/business_details (1).csv", head = T)
+```
+
+```{r}
+# Calculate the correlation coefficient
+correlation <- cor(data$ReviewCount, data$AverageStars)
+cat(correlation)
+```
+
+
+```{r}
+# AverageStars= It is the result of taking the average of the stars field for each business_id
+
+ggplot(data, aes(x = AverageStars, y = ReviewCount )) +
+  geom_point(color = "red", alpha = 0.7,size = 3, shape = "circle") +
+  labs(x = "Average of stars given for each business", y = "Total number of reviews") +
+  ggtitle("Relationship between the number of reviews and average rating of a restaurant")
+```

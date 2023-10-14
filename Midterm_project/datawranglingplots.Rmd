@@ -1,0 +1,70 @@
+---
+title: "datawrangling"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(ggplot2)
+library(magrittr)
+library(dplyr)
+library(tidyverse)
+library(data.table)
+```
+
+
+```{r}
+# load data and calculate the number of businesses in each group
+yelp.data <- read.csv("format.csv", head = T)
+
+#print data - only prints 10 first and 10 last rows
+head(yelp.data, n=20)
+tail(yelp.data, n=20)
+
+#plot for review count
+ #a couple outliets can be see in the plot
+
+#add mean and sd points
+mean_count <- mean(yelp.data$review_count)
+sd_count <- sd(yelp.data$review_count)
+plot(yelp.data$review_count)
+mean_count
+sd_count
+points(x=0, y = mean_count, col = "red", pch = 16)
+points(x=3, y = sd_count, col = "green", pch = 16)
+```
+
+```{r}
+#total review count by state barchart
+# Log scaling
+yelp.data$review_count_log <- log10(yelp.data$review_count)
+# Total log-scaled review count by state bar chart
+sum.plot <- ggplot(yelp.data, aes(x = state, y = review_count_log)) + stat_summary(fun = sum, geom = "bar")
+print(sum.plot + ggtitle("Total Log-Scaled Review Count by State"))
+```
+
+```{r}
+#average review count by state barchart
+# Log scaling
+yelp.data$review_count_log <- log10(yelp.data$review_count)
+# Average log-scaled review count by state bar chart
+avg.plot <- ggplot(yelp.data, aes(x = state, y = review_count_log)) + stat_summary(fun.y = mean, geom = "bar")
+print(avg.plot + ggtitle("Average Log-Scaled Review Count by State"))
+avg.plot <- ggplot(yelp.data, aes(x = state, y = review_count)) + stat_summary(fun.y = mean, geom = "bar")
+print(avg.plot + ggtitle("Average Review Count by State"))
+```
+
+
+```{r}
+#Count of business name in each state
+yelp.data.table <- yelp.data %>% group_by(state, name) %>%
+  summarise(total_count=n(),.groups = 'drop') %>%
+  as.data.frame()
+yelp.data.table
+```
+```{r}
+yelp.data.table
+
+```
+

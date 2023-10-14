@@ -1,0 +1,16 @@
+state,name,RestaurantsDelivery,RestaurantsTakeOut,BusinessAcceptsCreditCards,review_count,restaurant_rank
+FL,Datz,TRUE,TRUE,TRUE,3260,1
+FL,Bern's Steak House,FALSE,FALSE,TRUE,2924,2
+FL,Oxford Exchange,TRUE,TRUE,TRUE,1868,3
+IN,The Eagle,TRUE,TRUE,TRUE,2233,1
+IN,St. Elmo Steak House,TRUE,TRUE,TRUE,2035,2
+IN,Bakersfield,TRUE,TRUE,TRUE,1642,3
+MO,Pappy's Smokehouse,TRUE,TRUE,TRUE,3999,1
+MO,Broadway Oyster Bar,TRUE,TRUE,TRUE,2076,2
+MO,Rooster - Downtown,TRUE,TRUE,TRUE,1984,3
+PA,Reading Terminal Market,TRUE,TRUE,TRUE,5721,1
+PA,Pat's King of Steaks,TRUE,TRUE,FALSE,4250,2
+PA,Geno's Steaks,TRUE,TRUE,FALSE,3401,3
+TN,Hattie B’s Hot Chicken - Nashville,TRUE,TRUE,TRUE,6093,1
+TN,Biscuit Love: Gulch,TRUE,TRUE,TRUE,4207,2
+TN,The Pharmacy,TRUE,TRUE,TRUE,3054,3

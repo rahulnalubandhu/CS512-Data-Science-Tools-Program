@@ -1,0 +1,501 @@
+business_id,name,address,city,state,postal_code,stars,review_count,RestaurantsDelivery,RestaurantsTakeOut,BusinessAcceptsCreditCards
+VIbI9Ds6-XwaR6bZdo1s2w,Verizon,5902 N Illinois St,Fairview Heights,IL,62208,2,9,TRUE,TRUE,TRUE
+rDk_O0KRIqEYvoBhonLmjA,Dunkin',6008 N Illinois St,Fairview Heights,IL,62208,2,59,TRUE,TRUE,TRUE
+yi59A0fDSc3WKzGBhh9JOQ,Wendy's,6204 N. Illinois St.,Fairview Hts.,IL,62208,2,20,TRUE,TRUE,TRUE
+IVS4gSPkjdEyf7-6dSCvDg,AT&T Store,6403 N Illinois St,Fairview Heights,IL,62208,2,8,FALSE,TRUE,TRUE
+b6ZtTraMKE3ftSmtkfe-iw,TGI Fridays,6900 N Illinois St,Fairview Hts,IL,62208,2,110,TRUE,TRUE,TRUE
+VKJYOnjRrPcXSkXCTynwbg,Domino's Pizza,5519 N Illinois St,Fairview Heights,IL,62208,2,10,TRUE,TRUE,TRUE
+UdG4vbwXf1tK7PSCeBLrKw,LensCrafters,"134 Saint Clair Sq, Ste 271-272",Fairview Heights,IL,62208,2,5,FALSE,TRUE,TRUE
+Bc78MEmBdRu6x7OICYdW4Q,KFC,13375 W Chinden Blvd,Boise,ID,83713,2,21,TRUE,TRUE,TRUE
+C4Tb9k29pPwUWQ-42Y3SMA,Jack in the Box,6300 N Eagle Rd,Boise,ID,83713,2,17,TRUE,FALSE,TRUE
+imCIha88DmlxaWpXScRkZw,Buffalo Wild Wings,501 Stanton Christiana Rd,Newark,DE,19713,2,41,TRUE,TRUE,TRUE
+vpAgKeDIdzEtsqdSn8yHUw,Dunkin',4 Macintosh Plaza,Newark,DE,19713,2,8,TRUE,TRUE,TRUE
+k93U5RS4ohNqk9912QcyOw,Capriotti's Sandwich Shop,4132 Ogletown Stanton Rd,Newark,DE,19713,2,13,TRUE,TRUE,TRUE
+7sdNASlBZhZMQalQUKB4ug,Chili's,425 Stanton Christiana Rd,Newark,DE,19713,2,20,FALSE,TRUE,TRUE
+cg-5DuEk0AMzuILNx8FGtg,Denny's,80 Mcintosh Plz,Newark,DE,19713,2,70,TRUE,TRUE,TRUE
+zfRgZ3f7f9qyrsbrf5ElEQ,Wendy's,5525 Chinden Boulevard,Garden City,ID,83714,2,9,TRUE,TRUE,TRUE
+mM4vtt-BVT_80J9JSKdw7Q,McDonald's,4825 N Glenwood St,Boise,ID,83714,2,9,TRUE,TRUE,TRUE
+4RReO7vPSXqGty_U0XAOKQ,Burger King,6770 Glenwood St,Garden City,ID,83714,2,7,TRUE,FALSE,TRUE
+YicdiOc9oWLTNp4Ox6Xj2w,Dairy Queen,5251 Glenwood Rd,Garden City,ID,83714,2,19,TRUE,TRUE,TRUE
+G4VYdDhZ0lxzQ0OvUhWfEg,Dairy Queen Grill & Chill,1420 N Mount Juliet Rd,Mt Juliet,TN,37122,2,63,TRUE,TRUE,TRUE
+k91vKZa8oDHGFEumLyI-KQ,McDonald's,625 S Mount Juliet Rd,Mount Juliet,TN,37122,2,21,TRUE,TRUE,TRUE
+wTPu4C7FTdJNLu88_JJqeg,Wendy's,401 S. Mt. Juliet Road,Mt.Juliet,TN,37122,2,14,TRUE,TRUE,TRUE
+tfnxPh4AFBU1QmbDO9eRRA,Logan's Roadhouse,401 S Mt Juliet Rd,Mt. Juliet,TN,37122,2,84,TRUE,TRUE,TRUE
+TmOSBESpzQC0HeRGXZzAbw,Steak ’n Shake,5006 Crossings Cir,Mt. Juliet,TN,37122,2,87,TRUE,TRUE,TRUE
+Q1HW1zvVSIegopXiapiqVA,Zaxby's Chicken Fingers & Buffalo Wings,719 S Mount Juliet Rd,Mount Juliet,TN,37122,2,30,TRUE,TRUE,TRUE
+4X3w1wFm-qWDwr95Prspew,Domino's Pizza,11362 Lebanon Rd,Mount Juliet,TN,37122,2,6,TRUE,TRUE,TRUE
+R3UoVa4t-Yz0BXSNhoy3Ug,Burger King,11457 Lebanon Rd,Mount Juliet,TN,37122,2,11,TRUE,FALSE,TRUE
+0mbwwuFnDdbmXYrRcdDllw,Dominic's Ristorante Italiano,152 Bridge St,Phoenixville,PA,19460,2,21,FALSE,TRUE,TRUE
+bK8e7Say_kRIUCgejOSVyw,Domino's Pizza,253 Schuylkill Rd,Phoenixville,PA,19460,2,27,TRUE,TRUE,TRUE
+bJJAKnF4M8oS0lkIX5FZhA,ACME Markets,785 Starr St,Phoenixville,PA,19460,2,14,TRUE,TRUE,TRUE
+9shXDmiEvRLgD93R6KlPNA,McDonald's,651 Nut Rd,Phoenixville,PA,19460,2,31,TRUE,TRUE,TRUE
+bBMH0iGXMYVdnT9cf6_hgQ,Wawa,120 Schuylkill Rd,Phoenixville,PA,19460,2,8,TRUE,TRUE,TRUE
+7MoPLRDfUmVB6hoFhpdu-Q,Walgreens,36515 State Road 54,Zephyrhills,FL,33541,2,5,FALSE,TRUE,TRUE
+WXt4HCKhUiN7NZxkPYwPkQ,CVS Pharmacy,34502 State Road 54,Zephyrhills,FL,33541,2,8,TRUE,FALSE,TRUE
+lCNwUI2j90p6qub8Wp4gFQ,Burger King,5610 N Gall Blvd,Zephyrhills,FL,33542,2,7,TRUE,FALSE,TRUE
+ctnvu1eMLQ5ON09baNsvPA,Taco Bell,1070 S West End Blvd,Quakertown,PA,18951,2,27,TRUE,TRUE,TRUE
+nOuYFVtC-I1-dPOToQqB7A,Dunkin',224 W Broad St,Quakertown,PA,18951,2,6,TRUE,TRUE,TRUE
+NN_g-DR6NfhUWSiwmVd6Ow,Taco Bell,5406 County Rd 581,Wesley Chapel,FL,33543,2,24,TRUE,TRUE,TRUE
+buPJX5kCRy3RKUfGFQSQ9A,Sonic Drive-In,1908 Bruce B Downs Blvd,Wesley Chapel,FL,33543,2,49,TRUE,TRUE,TRUE
+Q1rNgP8l4cVykCK8n40tWQ,Walgreens,28115 Wesley Chapel Blvd,Wesley Chapel,FL,33543,2,17,FALSE,TRUE,TRUE
+Y3e4SAcyZWBAxjAE9eafJw,Advance Auto Parts,28644 State Rd 54,Wesley Chapel,FL,33543,2,7,FALSE,TRUE,TRUE
+kbPT6BFoLjh6yTyVf_UKFA,Applebee's Grill + Bar,28422 State Road 54,Wesley Chapel,FL,33543,2,83,TRUE,TRUE,TRUE
+n88rreifvghMYJVUaWMUXg,Papa John's Pizza,204 Shoemaker Road,Pottstown,PA,19464,2,12,TRUE,TRUE,TRUE
+F5gmUUyjkUFAfLl8bAomwQ,Hibachi Grill and Supreme Buffet of PA,"Upland Square Shopping Center, 260 Upland Sq Dr",Pottstown,PA,19464,2,44,FALSE,TRUE,TRUE
+_2qHYXX2LgozEn9tu5cMRw,Walmart Supercenter,233 Shoemaker Rd,Pottstown,PA,19464,2,24,TRUE,FALSE,TRUE
+DGae0qGBtoE19egWaLYR4A,Chili's,220 Upland Sq Dr,Stowe,PA,19464,2,68,TRUE,TRUE,TRUE
+uLmX3n3GqF7HwXtVjXd3Xg,Popeyes Louisiana Kitchen,1415 E High St,Pottstown,PA,19464,2,41,TRUE,TRUE,TRUE
+M8Zxy5yP2XPXdeiGW3lUrA,McDonald's,1428 E High St,Pottstown,PA,19464,2,6,TRUE,TRUE,TRUE
+2PlhAoV-zXw2SUaWzkw-Ng,Friendly's - Pottstown,200 Shoemaker Rd,Pottstown,PA,19464,2,37,TRUE,TRUE,TRUE
+RW3iQlF3KB-BNg4V4f4dkA,Dunkin',1495 E High St,Pottstown,PA,19464,2,16,TRUE,TRUE,TRUE
+bKNDG_o23VD82xlX1YOHtA,King Buffet,"223 Shoemaker Rd, Ste 131",Pottstown,PA,19464,2,40,TRUE,TRUE,TRUE
+Dc6escpLWbL2vJR5cFN6_w,Advance Auto Parts,12 Moser Rd,Pottstown,PA,19464,2,7,FALSE,TRUE,TRUE
+ThZyytdc_kj2uBYFiSao-A,Arner's Restaurant,201 N Dupont Hwy,New Castle,DE,19720,2,57,FALSE,TRUE,TRUE
+p_iyQ6Mo33ZbGS5k5_bTng,Burger King,1530 N Du Pont Hwy,New Castle,DE,19720,2,11,TRUE,FALSE,TRUE
+oa4bCkow1hrF6pqQCT6EGQ,McDonald's,101 S Dupont Hwy,New Castle,DE,19720,2,15,TRUE,TRUE,TRUE
+MTjS4g__WMgA-PPMjCL4fQ,Popeyes Louisiana Kitchen,1505 Dupont Hwy,New Castle,DE,19720,2,21,TRUE,TRUE,TRUE
+1Ye_elsSB-XjKgWAHDwPbw,Applebee's Grill + Bar,105 Wilton Blvd,New Castle,DE,19720,2,35,TRUE,TRUE,TRUE
+JaHuWM3Tp1aG7NW66mhutw,McDonald's,3014 New Castle Ave,New Castle,DE,19720,2,6,FALSE,TRUE,TRUE
+dHGF9hGrgdc-2GYYqln5Mw,BJ's Wholesale Club,124 Sunset Boulevard,New Castle,DE,19720,2,15,TRUE,FALSE,TRUE
+s-7Q1GAQmB-Qsm_UwviHVA,Lone Star Steakhouse,113 S. Dupont Highway,New Castle,DE,19720,2,15,FALSE,TRUE,TRUE
+DNvMHI_X3PEi9vTmMHO0Yg,TGI Fridays,128 N Dupont Hwy,New Castle,DE,19720,2,75,TRUE,TRUE,TRUE
+Hx8DHtPTRq-Qa98fRCTofA,Burger King,101 N Dupont Pkwy,New Castle,DE,19720,2,15,TRUE,FALSE,TRUE
+8IazNnZkqYlNODBZPS1CGA,Wawa,183 Airport Rd,New Castle,DE,19720,2,7,TRUE,TRUE,TRUE
+Qeh-KW3nlQBqh6Y-smHrUg,Walgreens,740 Ferry Cut Off St,New Castle,DE,19720,2,5,TRUE,FALSE,TRUE
+5AQDQGqneAHC8SZLKHgHIA,Dunkin',2340 Willow Oak Dr,Wesley Chapel,FL,33544,2,26,TRUE,TRUE,TRUE
+Ok0y3WvijsjmUpGAwlAZOQ,Dunkin',27616 Wesley Chapel Blvd,Wesley Chapel,FL,33544,2,38,TRUE,TRUE,TRUE
+SRZXb6ankkoj6zC3dWJBRA,TGI Fridays,351 W Schuylkill Rd A-2,Pottstown,PA,19465,2,41,TRUE,TRUE,TRUE
+LuPs7eFsixV6OIGwsNUZug,McDonald's,950 2nd Str Pike,Richboro,PA,18954,2,24,TRUE,TRUE,TRUE
+hUcUvCpETeN0hvN32zrOlA,McDonald's,16701 Fishhawk Blvd,Lithia,FL,33547,2,30,TRUE,TRUE,TRUE
+S_9YbiMLXILvAGojZ1mKRw,Sonic Drive-In,16525 Fishhawk Blvd,LITHIA,FL,33547,2,27,TRUE,TRUE,TRUE
+8ZLaJ0IpIdzaPcF05BThIw,Limerick Diner,411 W Ridge Pike,Limerick,PA,19468,2,176,TRUE,TRUE,TRUE
+_10m_xRpfqqnj9jvUUIqjA,Applebee's Grill + Bar,70 Buckwalter Rd,Limerick,PA,19468,2,45,TRUE,TRUE,TRUE
+7UJ0K_fTZQAZkI8OMLbP9g,Jannie's,1810 E Ridge Pike,Royersford,PA,19468,2,23,FALSE,TRUE,TRUE
+hGy3actugEISbvEGQeMz3A,Dunkin',800 Main St,Royersford,PA,19468,2,23,TRUE,TRUE,TRUE
+ZfzZvQSTLcqpQI6vov5uWw,Pizza Hut,"1814 Ridge Pike, Bldg F Ste 106",Royersford,PA,19468,2,16,TRUE,TRUE,TRUE
+crRUwlg4u4VLLnGcOe9Ang,Petco,"1844 E Ridge Pike, Ste 110",Royersford,PA,19468,2,14,FALSE,FALSE,TRUE
+62eQzOWKmzsIJnJN33vofQ,McDonald's,308 N Lewis Rd,Royersford,PA,19468,2,20,TRUE,TRUE,TRUE
+NZ8rkOpkBisCWpfJb2rfzQ,McDonald's,17757 N Dale Mabry,Lutz,FL,33548,2,22,TRUE,TRUE,TRUE
+7dtnDUJuF6cyqkv5Hvuumg,McDonald's,125 S Belt E,Belleville,IL,62220,2,16,TRUE,TRUE,TRUE
+PLKgUA4kOiX_hEQtr2MAtg,CVS Pharmacy,2322 Land O Lakes Blvd,Lutz,FL,33549,2,13,TRUE,FALSE,TRUE
+k2UjdZliq33S2Bcm5xo-oQ,Taco Bell,22744 State Rd. 54,Lutz,FL,33549,2,36,TRUE,TRUE,TRUE
+5u61-6q6o0YvST1AxCiDxQ,Domino's Pizza,22911 State Road 54,Lutz,FL,33549,2,7,TRUE,TRUE,TRUE
+PqqTZ8ZY54s6nCzQhN7Agw,Dunkin',17514 US Highway 41,Lutz,FL,33549,2,17,TRUE,TRUE,TRUE
+FSxREGXCZdsh5wZhOcay8Q,Dunkin',22722 State Road 54,Lutz,FL,33549,2,54,TRUE,TRUE,TRUE
+k43EjOUSYAst_DK4WORMWg,Walgreens,515 Carlyle Ave,Belleville,IL,62221,2,5,FALSE,TRUE,TRUE
+4fZpPRE74wBw3WU_8QuV-g,Best Pizza Buffet,2525 Green Mt Commons Dr,Belleville,IL,62221,2,38,FALSE,TRUE,TRUE
+CYDpBk6QrNPnW9Z9hK_3qQ,Taco Bell,760 Carlyle Ave,Belleville,IL,62221,2,33,TRUE,TRUE,TRUE
+OYLgL3G5rQdqPH7fH3__LQ,Subway,7204 Nolensville Rd,Nolensville,TN,37135,2,8,FALSE,TRUE,TRUE
+rhfWn_5ZAKg0jEWh5Q1ftw,Taco Bell,15 S 59th St,Belleville,IL,62223,2,11,TRUE,TRUE,TRUE
+Rm_XCUXMGBG3Dob8GwALpA,CVS Pharmacy,4290 Township Line Rd,Schwenksville,PA,19473,2,7,TRUE,FALSE,TRUE
+tr06Gn6KTQVx1mQcF5gU9A,Triple R's Smokehouse,813 Seibert Rd,Scott Air Force Base,IL,62225,2,6,FALSE,TRUE,TRUE
+abbNHdwyILlk45FalWyCBg,Sonic Drive-In,1410 Robinson Rd,Old Hickory,TN,37138,2,12,TRUE,TRUE,TRUE
+zraJ8MD-n5ob6s7dSNzKFg,McDonald's,1252 Robinson Rd,Old Hickory,TN,37138,2,14,TRUE,TRUE,TRUE
+eQ83iTisgPFzJ1YBO3p-IA,Domino's Pizza,4000 W Main St,Belleville,IL,62226,2,22,TRUE,TRUE,TRUE
+JWfMeYHTvROqOkwJlcGFQw,Rally's,4527 W Main St,Belleville,IL,62226,2,11,TRUE,TRUE,TRUE
+O8wgk23gex2Dwktm1gd_Lg,KFC,4914 W Main St,Belleville,IL,62226,2,7,TRUE,TRUE,TRUE
+xm_5HMdQ2esc2EvrwFgh7A,Pizza Hut,"5720 N Belt W, Ste 38",Belleville,IL,62226,2,6,TRUE,TRUE,TRUE
+tICvWNWLbXhGsFJ32tgS7Q,Schnucks - Belleville,5720 N Belt W,Belleville,IL,62226,2,11,TRUE,FALSE,TRUE
+MolBW1pOTKKXCwWEcAG_Vg,Walgreens,5890 N Belt W,Belleville,IL,62226,2,5,FALSE,TRUE,TRUE
+tA8oKP3qYwzNo8GpwigUrQ,Ruler Foods,1703 North Belt West,Belleville,IL,62226,2,6,FALSE,FALSE,TRUE
+q3AbKPlzrqbUh8tz26vsdQ,Wendy's,5959 Belleville Crossing St,Belleville,IL,62226,2,7,TRUE,TRUE,TRUE
+yQGPiN-UmRE7cyRTiiQoZw,Imo's Pizza,4801 W Main St,Belleville,IL,62226,2,25,TRUE,TRUE,TRUE
+-VBV5IFRw2cggnsVhEkVkw,CVS Pharmacy,700 PA-113,Souderton,PA,18964,2,9,TRUE,FALSE,TRUE
+kUfUsNfgf0PFRH9d2bLSOA,McDonald's,16250 Sr 54,Odessa,FL,33556,2,29,TRUE,TRUE,TRUE
+2GRHH9p-vAHUoAWhcPM5AA,Moe's Southwest Grill,12464 Fl-54,Odessa,FL,33556,2,30,TRUE,TRUE,TRUE
+dT_knPUzLKzfh2extWQPsA,Dunkin',17691 Gunn Highway,Odessa,FL,33556,2,37,TRUE,TRUE,TRUE
+PkqzrOGNqwZecgId-vv7JQ,Logan International Foods,"189660000, Unit B",Upper Southampton,PA,18966,2,6,TRUE,TRUE,TRUE
+YZtphZ-zlhiPjzcJjuQc3g,Dunkin',1492 Buck Rd,Holland,PA,18966,2,14,TRUE,TRUE,TRUE
+eIClHkqYqCeaYOZSzu1eLQ,McDonald's,338 2nd St Pike,Southampton,PA,18966,2,17,TRUE,TRUE,TRUE
+XuyBhE9Qxy8nxw_6piiYcw,Wendy's,18811 State Road 54,Lutz,FL,33558,2,21,TRUE,TRUE,TRUE
+1IuLzYvrAleNSIc-FVgIYw,Panda Express,2468 Sun Vista Drive,Lutz,FL,33559,2,81,TRUE,TRUE,TRUE
+twDZoi-RH1SwNTUVT-sPuw,Pizza Hut,2727 York Rd.,Pleasant View,TN,37146,2,11,TRUE,TRUE,TRUE
+KC82FnHaqLPim_JzH3lOaw,Hardee's,6503 Hwy 41-A,Pleasant View,TN,37146,2,9,TRUE,TRUE,TRUE
+dHL63txs2cre24ZlQInQTw,KFC,1700 N Vandalia,Collinsville,IL,62234,2,11,TRUE,TRUE,TRUE
+EJuCnAfO6WU5lg0QvgwpGA,A&W Restaurant,379 North Bluff Road Lot 10,Collinsville,IL,62234,2,15,TRUE,TRUE,TRUE
+BGiQRikW27X8wfIE71iQBw,Pizza Hut,608 N Bluff Rd,Collinsville,IL,62234,2,15,TRUE,TRUE,TRUE
+c1YPgAj2U6nY-Q9TJzTJ_A,Penn Station,1128 Collinsville Crossing Blvd,Collinsville,IL,62234,2,12,TRUE,TRUE,TRUE
+LOpRqDGLGOKk__bc2-JbBA,McDonald's,520 Ramada Blvd,Collinsville,IL,62234,2,10,TRUE,TRUE,TRUE
+sdnx0M9nc4aNTrN791tVVg,Burger King,2022 Belt Line Rd,Collinsville,IL,62234,2,5,TRUE,TRUE,TRUE
+RO9QKv0mQS9GxcGlqLreXQ,Walmart Supercenter,1040 Collinsville Crossing Blv,Collinsville,IL,62234,2,18,TRUE,FALSE,TRUE
+sv3mfbZEI8frLbUbRPaQqA,Steak ’n Shake,606 North Blf,Collinsville,IL,62234,2,65,TRUE,TRUE,TRUE
+RgBY8au7GoXYHmBwqK77Iw,Wendy's,1061 Collinsville Crossing,Collinsville,IL,62234,2,6,TRUE,TRUE,TRUE
+vb6hIXx0dFpKGWpGlCX0tg,China One,1862 James L Redman Pkwy,Plant City,FL,33563,2,6,FALSE,TRUE,TRUE
+mTxQPA9W24fQMR5Ro-TkJg,Applebee's Grill + Bar,1204 Townsgate Ct,Plant City,FL,33563,2,45,TRUE,TRUE,TRUE
+Pwy3ijz9-nKKdBcjWv_5BQ,Popeyes Louisiana Kitchen,2005 S Frontage Rd,Plant City,FL,33563,2,10,TRUE,TRUE,TRUE
+JuiFuyPw2yjWiPpi3HXJ0Q,Pizza Hut,2316 James Redman Pkwy,Plant City,FL,33563,2,20,TRUE,TRUE,TRUE
+vVj9TnnHyS0hyGQmPJaBfw,KFC,2305 James L Redman Pkwy,Plant City,FL,33563,2,5,TRUE,TRUE,TRUE
+KsUimGJMBc7hNcNtZVrvRw,McDonald's,300 Columbia Ctr,Columbia,IL,62236,2,19,TRUE,TRUE,TRUE
+gJ52Cdv8Ymgij68Xc9O2hQ,Domino's Pizza,1125 Columbia Ctr,Columbia,IL,62236,2,6,TRUE,TRUE,TRUE
+sOqzzYdO4Wlv1VGgCkq4EQ,Friendly's,380 West Street Rd,Warminster,PA,18974,2,5,FALSE,TRUE,TRUE
+amh-4z1fZWPbH3rMiwFvrg,Taco Bell,430 York Rd.,Warminster,PA,18974,2,58,TRUE,TRUE,TRUE
+Lg-lJeo3xDzKqOSDpXfrIA,Walgreens,10 York Rd,Warminster,PA,18974,2,6,FALSE,TRUE,TRUE
+lZG8eUJwuZA71pU-6eK2WQ,Burger King,580 W St Rd,Warminster,PA,18974,2,7,TRUE,FALSE,TRUE
+Y34kmKgpINn5DmH8NScnzg,Walmart Supercenter,100 E Street Rd,Warminster,PA,18974,2,43,TRUE,FALSE,TRUE
+mKfsOT9yi5HPt4ytvN4iTw,Pizza Hut,421 W Street Rd,Warminster,PA,18974,2,27,TRUE,TRUE,TRUE
+YfGVsl-8YUcTmtNI0jQfhQ,Papa John's Pizza,390 York Rd #A,Warminster,PA,18974,2,22,TRUE,TRUE,TRUE
+1fBiQt1VUpQ9r3mY663mIw,Taco Bell,2101 West Baker Street,Plant City,FL,33567,2,19,TRUE,TRUE,TRUE
+Zg6KSBJ0Ntr6fILdchEZvw,Gateway Kia of Warrington PA,1425 Easton Rd,Warrington,PA,18976,2,37,FALSE,TRUE,TRUE
+anO1mFe8dez5guHmjY8pow,Saladworks,1540 N Main St,Warrington,PA,18976,2,10,TRUE,TRUE,TRUE
+kBLMIhzYGoqKm2EK4GME8A,Buffalo Wild Wings,"201 Easton Rd, Ste 118",Warrington,PA,18976,2,163,TRUE,TRUE,TRUE
+3dgXlhN2ChBW2Y75OWQ4FQ,Walmart,299 Valley Gate Dr,Warrington,PA,18976,2,37,TRUE,FALSE,TRUE
+1hRBDT7ajCL7u73SulUP0g,Dunkin',13 Commerce Drive,Brownsburg,IN,46112,2,42,TRUE,TRUE,TRUE
+m98Pb-RE755HFPTr2_wwyw,Dairy Queen Grill & Chill,705 E Main,Brownsburg,IN,46112,2,13,TRUE,TRUE,TRUE
+3031rErwJYYpk5IafsrFyw,Subway,1030 E Main St,Brownsburg,IN,46112,2,5,TRUE,TRUE,TRUE
+uGoKKkJa8nrC_46reV-ODA,Taco Bell,10611 Gibsonton Drive,Riverview,FL,33569,2,25,TRUE,TRUE,TRUE
+uR8Ew5NDKj2ZPVPv-3EYgg,Domino's Pizza,11224 Boyette Rd,Riverview,FL,33569,2,46,TRUE,TRUE,TRUE
+AtXi5Q5fNfvr-oZj3Vc_QA,McDonald's,13118 S US Hwy 301,Riverview,FL,33569,2,27,TRUE,TRUE,TRUE
+1l5_ojtsLrDwK_VoS8mb8w,Pizza Hut,3829 US Hwy 301 S,Riverview,FL,33569,2,30,TRUE,TRUE,TRUE
+EQjXmTa1qjspBe0k4kM0MA,Hungry Howie's Pizza & Subs,9990 US Highway 301 N,Riverview,FL,33569,2,25,TRUE,TRUE,TRUE
+jnGP8EdiW2tLFZr-N4E8Ew,Buffalo Wild Wings,13416 Boyette Road,Riverview,FL,33569,2,28,FALSE,TRUE,TRUE
+dExbA_Nx9nQF3qSTeydzXg,Westshore Pizza,11643 Boyette Rd,Riverview,FL,33569,2,42,TRUE,TRUE,TRUE
+fT0zsA9jwDpzZ0zhdfacyg,Bob Evans,8350 Windfall Ln,Camby,IN,46113,2,22,TRUE,TRUE,TRUE
+GVzGNqMCzmKK_F6nFJIQiw,Dunkin',"7015 S. Kentucky Ave, Ste 112",Indianapolis,IN,46113,2,27,TRUE,TRUE,TRUE
+B3CY2NVEFySzbyhW9YuxQg,Taco Bell,10850 Windfall Place,Camby,IN,46113,2,16,TRUE,TRUE,TRUE
+q8V54eD6L6WOTrYs9mp87g,Wendy's,8229 Windfall Lane,Camby,IN,46113,2,12,TRUE,TRUE,TRUE
+coBMIDJvLpiOCQhu3uM4MA,McDonald's,5001 S Tamiami Trl,Ruskin,FL,33570,2,33,TRUE,TRUE,TRUE
+cwvpVlg5BE2XXRWTHe3p9w,McDonald's,3110 Sr 674,Sun City Center,FL,33570,2,24,TRUE,TRUE,TRUE
+-Pd_tj2g-SGmOeVy718PPA,Pizza Hut,1926 Richardson Rd,Arnold,MO,63010,2,18,TRUE,TRUE,TRUE
+J8yQM9YWKWLyeadqUgU8zg,CVS Pharmacy,2120 Lone Star Dr,Arnold,MO,63010,2,12,TRUE,FALSE,TRUE
+YcoTKWgrkAW_fuU6MgIfdA,Burger King,3600 W Outer Rd,Arnold,MO,63010,2,10,TRUE,TRUE,TRUE
+yZuXTdOmCu5rnvQJznTv7Q,Dylan's Sports Bar & Grill,675 Jeffco Blvd,Arnold,MO,63010,2,25,FALSE,TRUE,TRUE
+DmZW1349xXN4ye2VcRNrMw,Walgreens,3937 Vogel Rd,Arnold,MO,63010,2,9,FALSE,TRUE,TRUE
+1B59ZyvK_n4E1egxquDO1Q,Captain D's,830 Jeffco Blvd,Arnold,MO,63010,2,13,TRUE,TRUE,TRUE
+nzR-JqAoZ-tWT5IKJVb8Xg,Lee's Hoagie House,614 York Rd,Warminster,PA,18979,2,17,TRUE,TRUE,TRUE
+oqZrIL_hCfWKrbETRVmvlQ,Dunkin',13721 Manchester Rd,Ballwin,MO,63011,2,49,TRUE,TRUE,TRUE
+7maX9XE-iMlelyr5B7YyHg,Bob’s Discount Furniture and Mattress Store,14250 Manchester Rd,Manchester,MO,63011,2,58,FALSE,TRUE,TRUE
+SdBwTVHusv8W_7HfbdkJnw,Wendy's,14799 Manchester Rd.,Ballwin,MO,63011,2,21,TRUE,TRUE,TRUE
+X4W8t6QT8FBr0oGfR90QiA,Burger King,14124 Manchester Rd,Ballwin,MO,63011,2,39,TRUE,FALSE,TRUE
+Msu6Qp1Tf38l_bGIBKk-Fw,Walgreens,14529 Manchester Rd,Manchester,MO,63011,2,5,FALSE,TRUE,TRUE
+KfWCXtyaE7CzQaEhq4_csQ,St. Louis Bread,14560 Manchester Rd,Ballwin,MO,63011,2,42,TRUE,TRUE,TRUE
+c44aUUU2te9GPcSLpRw0Xg,Taco Bell,13775 Manchester Rd,Ballwin,MO,63011,2,21,TRUE,TRUE,TRUE
+VCL5PnBmNCT1PzPuWLuMNQ,CVS Pharmacy,6202 US Highway 41 North,Apollo Beach,FL,33572,2,26,TRUE,FALSE,TRUE
+S2dmZ6w7ybyEVPK1LuouNg,Wild N Smokey Bbq,6032 N US Hwy 41,Apollo Beach,FL,33572,2,6,TRUE,TRUE,TRUE
+pNcAnMQlDHDgTwUmlpYcQw,Burger King,5024 N US Hwy 41,Apollo Beach,FL,33572,2,19,FALSE,FALSE,TRUE
+BJpgGfoeIRGqUl7dDeflvw,Papa John's Pizza,5034 North Us Hwy 41,Apollo Beach,FL,33572,2,9,TRUE,TRUE,TRUE
+s7rfmZjuVKGiGZYHIwKmoQ,Walgreens,705 N Pebble Beach Blvd,Sun City Center,FL,33573,2,17,TRUE,TRUE,TRUE
+aafJCGMtdKpKNtnd-YJpQw,CVS Pharmacy,105 Pebble Beach Blvd,Sun City Center,FL,33573,2,8,TRUE,FALSE,TRUE
+oWERoQyUODkCWhsVgKS1jw,Burger King,3890 Sun City Center Blvd,Ruskin,FL,33573,2,19,TRUE,FALSE,TRUE
+zSMJRrEwWPq9y7QkaA7R5Q,Wendy's,3725 Sun City Center Blvd,Ruskin,FL,33573,2,40,TRUE,TRUE,TRUE
+B9P6PXF-56hEoX4hO-i0aw,AT&T Store,"3846 Sun City Center Blvd, Ste 101",Ruskin,FL,33573,2,7,FALSE,TRUE,TRUE
+oLV14RPXy_gCS9gvlAofSg,McDonald's,101 Lamp And Lantern Vlg,Chesterfield,MO,63017,2,39,TRUE,TRUE,TRUE
+X7zr5zP60L1xaX3NKeVknA,Wendy's,10921 Bloomingdale Ave,Riverview,FL,33578,2,18,TRUE,TRUE,TRUE
+5DAFsDeeALSlYu7gyRXmSA,Walmart Neighborhood Market,10327 Big Bend Rd,Riverview,FL,33578,2,20,TRUE,FALSE,TRUE
+Q3ZmeBnP96bqbxevkOT7Nw,Burger King,10395 Big Bend Rd,Riverview,FL,33578,2,25,TRUE,FALSE,TRUE
+74090GuFOMsOy7UoCMg1Tw,Goodyear Auto Service,13360 US 301,Riverview,FL,33578,2,25,FALSE,TRUE,TRUE
+7RinFVNZHfVbXofpeO0cjA,Dunkin',3872 US Highway 301 S,Riverview,FL,33578,2,20,TRUE,TRUE,TRUE
+X9R0NTHRMEcXngpLmor4uw,KFC,7007 US 301 S,Riverview,FL,33578,2,23,TRUE,TRUE,TRUE
+q-dcHGK0ur8O2F9AI_0Ilg,Dunkin',13135 US Highway 301 S,Riverview,FL,33578,2,32,TRUE,TRUE,TRUE
+e8TtxDPS7xM7RAMG178WnA,Steak ’n Shake,10131 Bloomingdale Ave,Riverview,FL,33578,2,91,TRUE,TRUE,TRUE
+vASuBvl4tCXot56g4U9_Hg,Walgreens,10427 Big Bend Rd,Riverview,FL,33578,2,27,FALSE,TRUE,TRUE
+tROylgBBPdyq1HB9mObFPg,Walgreens,10624 Gibsonton Dr,Riverview,FL,33578,2,11,FALSE,TRUE,TRUE
+-urxhzobcJtOpgFAyaEIpA,Dairy Queen Grill & Chill,10503 Gibsonton Dr,Riverview,FL,33578,2,29,TRUE,TRUE,TRUE
+DjpthTFpAY-9pOTXtwJjFQ,Sonic Drive-In,10251 Big Bend Rd,RIVERVIEW,FL,33578,2,40,TRUE,TRUE,TRUE
+utyEsymR_vHtIU2BgdeE6A,Wendy's,10529 Gibsonton Drive,Riverview,FL,33578,2,28,TRUE,TRUE,TRUE
+l6J7A4dw2_kcY9ktCyEolg,CVS Pharmacy,10623 Gibsonton Dr,Riverview,FL,33578,2,24,TRUE,FALSE,TRUE
+yVBTwIJdbtScInZ7G8eDwg,McDonald's,3921 S US Hwy 301,Riverview,FL,33578,2,32,TRUE,TRUE,TRUE
+x0VTIV-FOPQKyJf3Ivw0CQ,Jack's Pizza,1350 E Main St,Danville,IN,46122,2,16,TRUE,TRUE,TRUE
+6tfH-0BnhzDc29p712rUUg,McDonald's,10747 E US 36,Avon,IN,46123,2,24,TRUE,TRUE,TRUE
+1OD5rInxeC8bM3d2N8-gcQ,IHOP,10143 East US Hwy 36,Avon,IN,46123,2,57,TRUE,TRUE,TRUE
+N0gGkw0xLjIwAIG7GlB3ag,Burger King,8042 E US Hwy 36,Avon,IN,46123,2,24,TRUE,FALSE,TRUE
+G_BOL9TKv5UlDup6sUrwwg,Bob Evans,7649 E US Highway 36,Avon,IN,46123,2,28,FALSE,TRUE,TRUE
+YGetHN62O183L5Ngvsls2w,Chicagos Pizza Express,7900 E US 36,Avon,IN,46123,2,9,FALSE,TRUE,TRUE
+Go7N00VYibqU0mumsh1Aiw,Popeyes Louisiana Kitchen,9302 East Highway 36,Avon,IN,46123,2,56,TRUE,TRUE,TRUE
+TT0-pieWLT0709sU0qzfVQ,Walgreens,7975 E US Highway 36,Avon,IN,46123,2,10,FALSE,TRUE,TRUE
+ubDZpV0ratogOIy3L6HZgg,Pizza Hut,1358 Big Bend Rd,Twin Oaks,MO,63021,2,8,TRUE,TRUE,TRUE
+AKk4FYZQpGQo5WhPiptljw,Walgreens,1391 Big Bend Rd,Ballwin,MO,63021,2,5,FALSE,TRUE,TRUE
+7-_Y6S0NpaPSmGb5_AGUZQ,Long John Silver's,2440 Commercial Way,Spring Hill,FL,34606,2,18,TRUE,TRUE,TRUE
+nfUPDY_1uh9ygQbgRGvFlw,Burger King,1390 Commercial Way,Spring Hill,FL,34606,2,16,TRUE,FALSE,TRUE
+d7LIvW1sTkJBTi3eL_LYZQ,Walmart Supercenter,1485 Commercial Way,Spring Hill,FL,34606,2,35,TRUE,FALSE,TRUE
+UdXpVlj1DCJ2ZFgU0uVVkA,Wendy's,4720 Commercial Way,Spring Hill,FL,34606,2,17,TRUE,TRUE,TRUE
+578B5gULtAoGDkmyMmEi-g,Hungry Howie's Pizza & Subs,7325 Spring Hill Dr,Spring Hill,FL,34606,2,10,TRUE,TRUE,TRUE
+o-SPK73nXHrbbMknFUNnAA,Bourbon Blues House,4670 Commercial Way,Spring Hill,FL,34606,2,8,FALSE,TRUE,TRUE
+_ozCIOzZtIuAewuMYI_OqQ,Dunkin',4471 Commercial Way,Spring Hill,FL,34606,2,15,TRUE,TRUE,TRUE
+KPzDlvjirWoWqQICXLgxsg,Popeyes Louisiana Kitchen,4493 Commercial Way,Spring Hill,FL,34606,2,31,TRUE,TRUE,TRUE
+tuzn8lUNR2LF5JkSqJRwMQ,Walgreens,4255 Commercial Way,Spring Hill,FL,34606,2,8,FALSE,TRUE,TRUE
+1NBOCuiFeG6DAkR_dd6pTA,Subway,224 S Madison,Lebanon,IL,62254,2,8,FALSE,TRUE,TRUE
+udp0E0RMpqq9jU9jiDKZdw,Wild Agave Mexican Grill,13645 Big Bend Rd,St Louis,MO,63022,2,20,TRUE,TRUE,TRUE
+TWA_Qiqa9Jbff9clvBfnMg,Wendy's,490 Sam Ridley Pkwy W,Smyrna,TN,37167,2,12,TRUE,TRUE,TRUE
+qIzKtmOjBC3CSMmPQ068ew,Taco Bell,305 N Lowry St,Smyrna,TN,37167,2,10,TRUE,TRUE,TRUE
+1CXFe8gwN5FeAaLEh--xGg,Taco Bell,1895 Almaville Road,Smyrna,TN,37167,2,14,TRUE,TRUE,TRUE
+I8IgwtCWX1GtonghoYUQGg,Walmart Supercenter,570 Enon Springs Rd E,Smyrna,TN,37167,2,14,TRUE,FALSE,TRUE
+7IzdRORpjpZHxoAxKorL3g,Dairy Queen Grill & Chill,420 Sam Ridley Pkwy W,Smyrna,TN,37167,2,20,TRUE,TRUE,TRUE
+Gw3-ekvYP6w6Wrcs0eLcIQ,Sonic Drive-In,791 Nissan Dr,Smyrna,TN,37167,2,15,TRUE,TRUE,TRUE
+1DjUWO4csdFa-cg15dSGUQ,Sonic Drive-In,1889 Almaville Rd,Smyrna,TN,37167,2,15,TRUE,TRUE,TRUE
+592HGLvTk4gaoH5BEqP9xA,Chili's,610 Sam Ridley Pkwy W,Smyrna,TN,37167,2,82,TRUE,TRUE,TRUE
+YuDv6bxaHjvst2PxnoM3ZA,Hardee's,255 S Lowry St,Smyrna,TN,37167,2,7,FALSE,FALSE,TRUE
+CraVVOWt3BRFDC9T7aupAw,Logan's Roadhouse,600 Sam Ridley Pkwy W,Smyrna,TN,37167,2,88,TRUE,TRUE,TRUE
+UPQ73-tadrbGkbzXamgAUA,Panera Bread,598 Sam Ridley Pkwy W,Smyrna,TN,37167,2,18,TRUE,TRUE,TRUE
+B9JHS--5heTPQ149PuLLYQ,Pizza Hut,11748 Martin Luther King Jr Blvd,Seffner,FL,33584,2,12,TRUE,TRUE,TRUE
+WwEwCuHfijeTpEl_OY3t3w,Hardee's,11705 E US Hwy 92,Seffner,FL,33584,2,21,FALSE,TRUE,TRUE
+5OpUORgAc84h2Z4ctxKCiA,McDonald's,610 E Dr Martin Luther King Jr,Seffner,FL,33584,2,35,TRUE,TRUE,TRUE
+3v00mtItiEWSOI1KfJnsCQ,Little Caesars Pizza,11066 Spring Hill Dr,Spring Hill,FL,34608,2,15,FALSE,TRUE,TRUE
+dx172W6t0q52Fp-VDZgOzw,Checkers,2137 Mariner Blvd.,Spring Hill,FL,34608,2,22,TRUE,TRUE,TRUE
+1ZmkPnesh_Y7_vZ8ENlDvg,Burger King,2096 Mariner Blvd,Spring Hill,FL,34609,2,10,TRUE,TRUE,TRUE
+wMcl1F6EEa3ngDh0HsN_vA,Dunkin',10455 County Line Rd,Spring Hill,FL,34609,2,11,TRUE,TRUE,TRUE
+GwUfmvUOAWmByr0rRn2aTA,Subway,712 E Broadway,Alton,IL,62002,2,7,TRUE,TRUE,TRUE
+G-3364B-eVslDufNEpHAOQ,IHOP,181 Homer M Adams Pkwy,Alton,IL,62002,2,23,TRUE,TRUE,TRUE
+GUH9h8yQzSY3s8P3Nssidg,KFC,620 E Landmarks Blvd,Alton,IL,62002,2,9,FALSE,TRUE,TRUE
+-s_ovV4hkwgfRdjEp0ZXMQ,Papa John's Pizza,2700 Washington Avenue,Alton,IL,62002,2,5,TRUE,TRUE,TRUE
+3gwwGdwihsmb4TOnUOo6RA,McDonald's,2400 Homer Adams Pkwy,Alton,IL,62002,2,14,TRUE,TRUE,TRUE
+8KBtnnw1TjA4tM4urmRCwQ,Pizza Hut,806 W Main St,Mascoutah,IL,62258,2,9,TRUE,TRUE,TRUE
+UAFrK91Wd3YLBJg8Hfxj1Q,Stratford Inn,800 S Hwy Dr,Fenton,MO,63026,2,13,FALSE,TRUE,TRUE
+XtP56x_qPkTVYL70p5Pkvg,Papa John's Pizza,98 Gravois Bluffs Cir  Suite B,Fenton,MO,63026,2,9,TRUE,TRUE,TRUE
+iXCu7zPWy2TmyoJSWEZkfQ,Walmart Supercenter,653 Gravois Bluffs Blvd,Fenton,MO,63026,2,18,TRUE,FALSE,TRUE
+45RduxnVKS8kB1sU_p2mUQ,McDonald's,501 Old Smizer Mill Rd,Fenton,MO,63026,2,20,TRUE,TRUE,TRUE
+L2q7MQFaDfe2jEXQ5-ApRQ,Steak ’n Shake,1185 Gravois Rd,Fenton,MO,63026,2,29,TRUE,TRUE,TRUE
+AaVhP2MWhU5ID63UpigYeg,Pizza Hut,585 Old Smizer Mill Rd,Fenton,MO,63026,2,23,TRUE,TRUE,TRUE
+kQhmw4RexXf6rfjpiysjkA,McDonald's,100 Old Sugar Creek Rd,Fenton,MO,63026,2,15,TRUE,TRUE,TRUE
+nfujCBdh2JN2hUoBxB0x1A,Taco Bell,611 Gravois Rd.,Fenton,MO,63026,2,24,TRUE,TRUE,TRUE
+0g9fGg7Z368fPJiBp7JvdA,Mango Mango Daiquiris,201 Bourbon St,New Orleans,LA,70195,2,157,FALSE,FALSE,TRUE
+I3zkJdYyGn9lqHg8B72ICA,Applebee's Grill + Bar,3534 Tom Austin Hwy,Springfield,TN,37172,2,10,FALSE,TRUE,TRUE
+fHNIhELpRD-zY3chu5WNpg,Burger King,2018 Memorial Blvd,Springfield,TN,37172,2,7,TRUE,FALSE,TRUE
+h1u9lMSoDeBSg-5VmWUaVg,Whitts Barbecue,3516 Tom Austin Hwy,Springfield,TN,37172,2,8,TRUE,TRUE,TRUE
+PF21rnDm1-rqhiNYSnszFA,Subway,"3535 Tom Austin Hwy, Ste F",Springfield,TN,37172,2,10,TRUE,TRUE,TRUE
+MPZUX8dsvwjGXoFJ41_NnQ,Waffle House,2100 Memorial Blvd,Springfield,TN,37172,2,10,FALSE,TRUE,TRUE
+3GGGwkQ8A0ICQTfwTKPiQw,Captain D's,2123 Memorial Blvd,Springfield,TN,37172,2,10,TRUE,TRUE,TRUE
+BV_pCw2X5ErMMbGMAo4HtA,Sonic Drive-In,3555 Tom Austin Hwy,Springfield,TN,37172,2,5,TRUE,TRUE,TRUE
+D3TgmgOJgiHDSh9D0ZZw3Q,Hardee's,2002 Memorial Blvd,Springfield,TN,37172,2,9,TRUE,TRUE,TRUE
+Qp9ogkfiCKeUQeB9-JWmVw,Walgreens,460 N Highway 67 St,Florissant,MO,63031,2,8,FALSE,TRUE,TRUE
+Pr_wx_4rSBOmCV0AKD2Siw,Wendy's,8250 N. Lindbergh,Florissant,MO,63031,2,17,TRUE,TRUE,TRUE
+PQQNnWp9JHegFdOGP-AEBw,Pizza Hut,2839 Patterson Ln,Florissant,MO,63031,2,7,TRUE,TRUE,TRUE
+gkNFqSreKexZxC0BTqS4uw,A&W Restaurant,1230 Graham Rd,Florissant,MO,63031,2,10,TRUE,TRUE,TRUE
+IeRQVYYIKnOVIilyZVfjmg,Wingstop,8222 N Lindbergh Blvd,Florissant,MO,63031,2,38,TRUE,TRUE,TRUE
+NFp_nHdkg252JJ4y6YDOAA,Popeyes Louisiana Kitchen,951 N Hwy 67,Florissant,MO,63031,2,21,TRUE,TRUE,TRUE
+E3f7uDqc_lrTSLkxIyZWhQ,Domino's Pizza,832 E Philadelphia Ave,Boyertown,PA,19512,2,5,TRUE,TRUE,TRUE
+68tT-waXYijVH4WGiFyQMw,Dunkin',849 E Philadelphia Ave,Boyertown,PA,19512,2,18,TRUE,TRUE,TRUE
+Q-eFove0FiHzcL__AUTyNw,ShopRite of Bordentown,622 Rte 206,Bordentown,NJ,8505,2,18,TRUE,TRUE,TRUE
+qyOUMa4Ol1lFnoZZ8lN_hA,Wendy's,2008 Route 206 South,Bordentown,NJ,8505,2,30,TRUE,TRUE,TRUE
+Da3LmQYuxuCJfRTH6FXsiA,Dunkin',937 Easton Rd,Roslyn,PA,19001,2,8,TRUE,TRUE,TRUE
+-G-p49zYwol8Sw9GP931VQ,Rita's Italian Ice,1700 Old York Rd,Abington,PA,19001,2,11,TRUE,TRUE,TRUE
+rMqWPcEwfnUZ-f8coYHEsA,Milano Pizzeria Restaurant,1335 Easton Rd,Roslyn,PA,19001,2,9,TRUE,TRUE,TRUE
+pe1uspK6xnVuVgLXFIjQlg,Dunkin',1701 Old York Rd,Abington,PA,19001,2,17,TRUE,TRUE,TRUE
+F-eHPbdh9bl8aeYDRws4BQ,Chipotle Mexican Grill,1437 Old York Rd,Abington,PA,19001,2,64,TRUE,TRUE,TRUE
+5N-93oMmm0MUt8HvyOot5A,Boston Market,1776 Old York Rd,Abington,PA,19001,2,47,TRUE,TRUE,TRUE
+U7JypsxzjH5f41NFZ82bdw,Jack in the Box,2095 N US Highway 67,Florissant,MO,63033,2,5,TRUE,FALSE,TRUE
+7Qz1PMz-U5fO-q1Ki8pHPg,Dairy Queen Grill & Chill,2678 N Hwy 67,Florissant,MO,63033,2,9,TRUE,TRUE,TRUE
+0QgAyxKXAHavVgG7BRlV9g,The Rice House,2725 N Highway 67,Florissant,MO,63033,2,39,TRUE,TRUE,TRUE
+Sz4N01C2R3JCKU4cznr2Zw,Applebee's Grill + Bar,2309 N US Highway 67,Florissant,MO,63033,2,38,TRUE,TRUE,TRUE
+eMcPPFGIngpYjxCYNwhd7Q,Jack in the Box,11204 W Florissant Ave,Florissant,MO,63033,2,5,TRUE,FALSE,TRUE
+iOneMCZY-T3w4aisqi4R2Q,Applebee's Grill + Bar,11077 New Halls Ferry Rd,Florissant,MO,63033,2,28,TRUE,TRUE,TRUE
+BTtQdwXZT8c5QvKrz3QI5Q,Taco Bell,1491 Dunn Road,Florissant,MO,63033,2,9,TRUE,TRUE,TRUE
+6kx5nIZh9bQ_02_GOcE7bg,Jack in the Box,4595 Washington St,Florissant,MO,63033,2,11,TRUE,FALSE,TRUE
+8ddsrCbKR8LmoYqmcCneMw,Steak ’n Shake,1955 Hwy 67 N,Florissant,MO,63033,2,22,TRUE,TRUE,TRUE
+R2Px0GUGW5LQV2nWqqkpjQ,Pizza Hut,1841 Norristown Rd,Maple Glen,PA,19002,2,21,TRUE,TRUE,TRUE
+T8CRW0yUTIQdW91XQp4EWw,Dunkin',881 W Butler Pike,Ambler,PA,19002,2,8,TRUE,TRUE,TRUE
+n57e-5iUyrAmwZMlKSPsZQ,Domino's Pizza,1115 S Bethlehem Pike,Ambler,PA,19002,2,20,TRUE,TRUE,TRUE
+peIWQGr3YPWNJC7SnS74wg,Dunkin',371 E Butler Ave,Ambler,PA,19002,2,9,TRUE,TRUE,TRUE
+TYz_POs8JRXS5l2SE1XoVA,Hardee's,1909 State Rd 60 E,Valrico,FL,33594,2,24,FALSE,TRUE,TRUE
+998PnfT0eWDMyJjtBhmRxA,Taco Bell,2201 State Road 60 E,Valrico,FL,33594,2,17,TRUE,TRUE,TRUE
+NHMwsUP0l5dMmsqNjVSPEA,China Star,1916 E State Rd 60,Valrico,FL,33594,2,11,TRUE,TRUE,TRUE
+LiouQHSl8e5-k-8_XW0KGA,Burger King,2117 State Rd 60 E,Valrico,FL,33594,2,19,TRUE,FALSE,TRUE
+GJacC9o8dq9QaWGmUookYg,CVS Pharmacy,2109 State Rd 60 E,Valrico,FL,33594,2,6,TRUE,FALSE,TRUE
+3O44PGRDlIxmikUL_J5Vww,Hooters,2765 N Hwy 67,Florissant,MO,63034,2,41,TRUE,TRUE,TRUE
+Vm6_bz0jDYxPfQ3cZv3vqw,Massage Envy - Ardmore,44 Greenfield Ave,Ardmore,PA,19003,2,36,FALSE,TRUE,TRUE
+tnq7b6ROl4RIyfQoxIrXhw,Chipotle Mexican Grill,133 W Lancaster Ave,Ardmore,PA,19003,2,117,TRUE,TRUE,TRUE
+lH_UKAJy6YTa1ArfdACU4g,Olive Garden Italian Restaurant,83 City Ave,Bala Cynwyd,PA,19004,2,154,TRUE,TRUE,TRUE
+SNYpn2BdTbz8QrrfH8rvdw,Wawa,801 Conshohocken State Rd,Bala Cynwyd,PA,19004,2,12,TRUE,TRUE,TRUE
+vqbU9EIjpyB6jcux9AOQVA,AT&T Store,161 E City Ave,Bala Cynwyd,PA,19004,2,18,FALSE,TRUE,TRUE
+yxQs5gSf0-8cEd6YMgSjbw,Chili's,175 E City Ave,Bala Cynwyd,PA,19004,2,140,TRUE,TRUE,TRUE
+kJmMX1VGooeM77skmQ_KGA,Perkins Restaurant & Bakery,115 W City Ave,Bala Cynwyd,PA,19004,2,37,FALSE,TRUE,TRUE
+z7u4xNXH39fDa7OhFnNmLw,Walmart Supercenter,2140 Bloomingdale Ave,Valrico,FL,33596,2,27,TRUE,FALSE,TRUE
+Q0N7zs7QL2G3tSw9Qvslyw,Wendy's,2809 N. 600 West,Greenfield,IN,46140,2,19,TRUE,TRUE,TRUE
+r0zvdOsHGlchLX2-TGxrPg,Burger King,2706 N 600th W,Greenfield,IN,46140,2,8,TRUE,FALSE,TRUE
+Xdzir62WKlSzeu4PMQtlBA,Hardee's,124 Hartman Ln,O Fallon,IL,62269,2,19,TRUE,TRUE,TRUE
+-imlMPrEJ8cc99qjEclKVA,Steak ’n Shake,109 Regency Park,O'Fallon,IL,62269,2,72,TRUE,TRUE,TRUE
+bxjOSldtLatq7jX4j0lKuQ,Taco Bell,1403 W US Highway 50,O Fallon,IL,62269,2,18,TRUE,TRUE,TRUE
+-9Kxik9BRNkft5rPcVvSsw,Buffalo Wild Wings,1424 Central Park Cir,O'Fallon,IL,62269,2,115,TRUE,TRUE,TRUE
+cyKq2OZ_EOdk8_lhSxy72w,Jack in the Box,1360 W Us Highway 50,O Fallon,IL,62269,2,44,TRUE,FALSE,TRUE
+uxZaujD1ednTa31llKVXkA,Domino's Pizza,304 E Highway 50,O Fallon,IL,62269,2,22,TRUE,TRUE,TRUE
+uA5PkyKXgZv2c64hJQqAgA,Imo's Pizza,521 W US Hwy 50,O Fallon,IL,62269,2,25,TRUE,TRUE,TRUE
+jNlRQXyBXAg5fmI6ckgLmA,Walmart Supercenter,4928 State Rd 674,Wimauma,FL,33598,2,37,TRUE,FALSE,TRUE
+Uj5Xcu-4i_qSZoJ74MtquQ,Steak ’n Shake,103 N State Road 135,Greenwood,IN,46142,2,28,TRUE,TRUE,TRUE
+cCUXx_h4dkdZH8cxJOzSBQ,Jimmy John's,"733 Loews Blvd, Ste D",Greenwood,IN,46142,2,33,TRUE,TRUE,TRUE
+yIP5AP5WH85dsupajZDDLA,Burger King,765 County Line Rd,Greenwood,IN,46142,2,16,TRUE,FALSE,TRUE
+gxusApmuXbfac_Zqy4KbqQ,Golden Corral Buffet & Grill,160 South Marlin Dr,Greenwood,IN,46142,2,31,TRUE,TRUE,TRUE
+vgMdflPB6OXiDcFWeZ7ICQ,Taco Bell,801 US 31 North,Greenwood,IN,46142,2,16,TRUE,TRUE,TRUE
+wGYQmcyHm-zyX6GO9u5nlg,QDOBA Mexican Eats,"704 State Road 135, Ste 100",Greenwood,IN,46142,2,40,TRUE,TRUE,TRUE
+t1bLT6fQTKNhJnIlccVPFQ,Dunkin',120 W. Smith Valley Rd,Greenwood,IN,46142,2,42,TRUE,TRUE,TRUE
+BofyiVSpm2dgp49gpjjDPQ,Verizon,1244 US Hwy 31 N,Greenwood,IN,46142,2,14,TRUE,TRUE,TRUE
+EqHycj5G9BcQHmVgF91aPw,Panda Express,"331 South State Road 135, SUITE A",Greenwood,IN,46142,2,23,TRUE,TRUE,TRUE
+YBh1wZbDQgNqGCYDzbhLDQ,Steak ’n Shake,247 W Smith Valley Rd,Greenwood,IN,46142,2,41,TRUE,TRUE,TRUE
+cqs7-jHvGSaPuQSWw1W4qg,Popeyes Louisiana Kitchen,270 N State Rd 135,Greenwood,IN,46142,2,20,TRUE,TRUE,TRUE
+SlDvRMCmWsWZkgg9WCObEA,Hibachi Grill & Supreme Buffet,232 Commerce Cir,Bristol,PA,19007,2,21,FALSE,TRUE,TRUE
+OwA7G4WFZMbGk6RLrI-HXQ,Bob Evans Farms Restaurant,91 Byrd Way,Greenwood,IN,46143,2,11,FALSE,TRUE,TRUE
+aJ0fE_Mo7CnoDAwYmiT6xA,Burger King,31 S,Greenwood,IN,46143,2,7,TRUE,FALSE,TRUE
+jcEirafTVQFD224NEoTjfQ,Wendy's,747 S State Rte 135,Greenwood,IN,46143,2,20,TRUE,TRUE,TRUE
+i4nKNUxMY6S99idIEMgssg,Taco Bell,3042 Stones Crossing Road West,Greenwood,IN,46143,2,21,TRUE,TRUE,TRUE
+RGMPK0znWtlP6Sr9yHntsA,McDonald's,2252 US Hwy 31 S,Greenwood,IN,46143,2,15,TRUE,TRUE,TRUE
+m0_MQ0NnryKiPvwJDiWXmQ,Long John Silver's,2191 Independence Dr,Greenwood,IN,46143,2,6,TRUE,TRUE,TRUE
+EC7YhDTvmCfnGa2GzbRvhA,CVS Pharmacy,1901 Sproul Road,Broomall,PA,19008,2,10,TRUE,FALSE,TRUE
+Ht66H1iGx0llc7ne81tjBw,Country Squire Diner,2560 W Chester Pike,Broomall,PA,19008,2,115,TRUE,TRUE,TRUE
+GUPpuoOBAG4lM14Nv8IqTg,Royal Farms,2130 W Chester Pike,Broomall,PA,19008,2,18,TRUE,TRUE,TRUE
+_ws0jviXOt0PXezpUVmHTA,Dunkin',2500 West Chester Pike,Broomall,PA,19008,2,9,TRUE,TRUE,TRUE
+G2ElfaHhRuVFTDbgWlu2Jw,ACME Markets,1991 N Sproul Rd,Broomall,PA,19008,2,15,TRUE,TRUE,TRUE
+k8kC-VYrewVejvkPxczZpQ,Malucci's,1991 Sproul Rd,Broomall,PA,19008,2,17,TRUE,TRUE,TRUE
+qXctAMyV6n9PSjPQuUSEpw,McDonald's,2601 W Chester Pike,Broomall,PA,19008,2,27,TRUE,TRUE,TRUE
+DdFfDwu5z7f24pp6e_q2XA,Roy Rogers,23 Park Ave,Elverson,PA,19520,2,21,TRUE,TRUE,TRUE
+zdwThvMacWCC_CDxV5w5Sw,Jos A Bank,"957 Haddonfield Rd, Ste F, Towne Place At Garden State Park",Cherry Hill,NJ,8002,2,14,FALSE,TRUE,TRUE
+3xW7Uk_12K8qSdBctcXySA,Wendy's,2400 Church Rd,Cherry Hill,NJ,8002,2,23,TRUE,TRUE,TRUE
+1r2bAE5TQpUO-zec9-cvxg,Red Eagle Tavern,1503 Chapel Ave W,Cherry Hill,NJ,8002,2,13,FALSE,TRUE,TRUE
+jzvgB66X05iwv15SbC4j0Q,Chili's,1906 W Rte 70,Cherry Hill,NJ,8002,2,41,TRUE,TRUE,TRUE
+9DBvBRSCAxEIUdEe1fySoQ,Bob’s Discount Furniture and Mattress Store,2234 Marlton Pike W,Cherry Hill,NJ,8002,2,96,FALSE,FALSE,TRUE
+qtRqU1dxdq8Mcbgcgtbx-Q,Applebee's Grill + Bar,108 Haddonfield Rd,Cherry Hill,NJ,8002,2,46,TRUE,TRUE,TRUE
+0Q-E_trgdkgIPlYUf-n5OA,Saladworks,2000 Route 38,Cherry Hill,NJ,8002,2,13,TRUE,TRUE,TRUE
+-V8WjHXv-BG2btzP8BBXXg,Lumber Liquidators - Cherry Hill,1205 Warren Ave,Cherry Hill,NJ,8002,2,9,TRUE,TRUE,TRUE
+rbMtoYrV-R74EPfV-wjaRQ,Friendly's,2250 Route 70 W,Cherry Hill,NJ,8002,2,33,FALSE,TRUE,TRUE
+oxFAic55QhHFgLph4jERzw,7-Eleven,969 Glenbrook Ave,Bryn Mawr,PA,19010,2,6,TRUE,TRUE,TRUE
+wDGJDwYUjmNax0Oo2N9zAA,Tony Luke's,601 W Lancaster Ave,Bryn Mawr,PA,19010,2,9,FALSE,TRUE,TRUE
+BNIdIxmtsycOWOJle6sQWw,Domino's Pizza,5 Franklin St,Bryn Mawr,PA,19010,2,28,TRUE,FALSE,TRUE
+6LA1ttZl3vLl3YBg4IqZWw,Dunkin',596 W Lancaster Ave,Bryn Mawr,PA,19010,2,29,TRUE,TRUE,TRUE
+Z7fw-YKQTHiNZqu_Vw10Pg,Tampa Salad Company,200 N Tampa St,Tampa,FL,33602,2,7,FALSE,TRUE,TRUE
+OtFQjONNg0z6TdSQ1Zxb9w,Subway,212 E Madison St,Tampa,FL,33602,2,18,TRUE,TRUE,TRUE
+qBwtph5O2kJL0pemRnr-6A,Domino's Pizza,1005 N Tampa St,Tampa,FL,33602,2,42,TRUE,TRUE,TRUE
+vK0ALj3KbJHy3nRVjEd30A,Nathan's Famous Hot Dogs,"200 N Tampa St, Ste G-115",Tampa,FL,33602,2,12,FALSE,TRUE,TRUE
+XK-mrAzh0cxD4U5Kmhy0fw,McDonald's,6270 Howdershell Rd,Hazelwood,MO,63042,2,10,TRUE,TRUE,TRUE
+WijDNE38uKQorjqTV7b15A,Taco Bell,7747 N Lindbergh Blvd.,Hazelwood,MO,63042,2,16,TRUE,TRUE,TRUE
+onyJd1EKOwGmM_WN38Zs0Q,CVS Pharmacy,"101 Springdale Rd, Holly Ravine Plaza",Cherry Hill,NJ,8003,2,22,TRUE,FALSE,TRUE
+3Qdpy--GFnuXdndqEntG6Q,Walgreens,3917 N Nebraska Ave,Tampa,FL,33603,2,9,FALSE,TRUE,TRUE
+fGHxrW-nVZhKjEJqsGgj4Q,CVS Pharmacy,625 W Doctor Mlk Jr Blvd,Tampa,FL,33603,2,5,TRUE,FALSE,TRUE
+V2aRYSwy862tExL-pBUFtg,McDonald's,12680 Dorsett Rd,Maryland Heights,MO,63043,2,39,TRUE,TRUE,TRUE
+npCGfvVlSSl9b5QFdfMXYA,QDOBA Mexican Eats,11500 Page Service Rd,St. Louis,MO,63043,2,21,TRUE,TRUE,TRUE
+yg8OzI6hKoWWkaeDBF3bpg,Steak ’n Shake,12607 Dorsett Rd,Maryland Heights,MO,63043,2,81,FALSE,TRUE,TRUE
+UYOZc-cC932HirQyMmqhfA,Hardee's,11938 Dorsett Rd,Saint Louis,MO,63043,2,10,TRUE,TRUE,TRUE
+mwhqx7UJE8fxakwmG6ZL2w,Papa John's Pizza,12203 Dorsett Road,Maryland Heights,MO,63043,2,15,TRUE,TRUE,TRUE
+BqdVD9WS5sinH0tACE5VFw,Eat Up Buffet,777 Casino Center Dr,Maryland Heights,MO,63043,2,36,FALSE,FALSE,TRUE
+8Loz2rVzVPCH2iUwFKT8dw,Dorsett Inn,12068 Dorsett Rd,Maryland Heights,MO,63043,2,13,FALSE,TRUE,TRUE
+_mdDAxk-O96OP35XdEfUTA,La Perrada Colombiana,7803 N Armenia Ave,Tampa,FL,33604,2,91,TRUE,TRUE,TRUE
+mJey7zMvlXHCLPHUgo_pwg,Taco Bell,330 Hester Dr.,White House,TN,37188,2,21,TRUE,TRUE,TRUE
+cvCNRnspcGjrOVMaNtdghA,Dunkin',810 Highway 76,White House,TN,37188,2,32,TRUE,TRUE,TRUE
+gmpCxO99gKQ9z3E_XY_YbQ,KFC,803 Hwy76,White House,TN,37188,2,9,TRUE,TRUE,TRUE
+QbPEgGMh6JUxDbCzHmX5hw,Wendy's,692 Highway 76,White House,TN,37188,2,12,TRUE,TRUE,TRUE
+l3zSx4cXpSOiUnEbjY1TxA,White Castle,11979 Paul Mayer Ave,Bridgeton,MO,63044,2,35,TRUE,TRUE,TRUE
+dzD2Oax8JtMDMwsyq-Hs1w,QDOBA Mexican Eats,12121 St Charles Rock Rd,Bridgeton,MO,63044,2,18,TRUE,TRUE,TRUE
+UTErsvW3x-jMuFy4pS2hng,HomeTown Buffet,12228 St Charles Rock Rd,Bridgeton,MO,63044,2,25,FALSE,TRUE,TRUE
+51yV__LuSawlYDNSYpvdfA,Wendy's,11961 Paul Mayer,Bridgeton,MO,63044,2,15,TRUE,TRUE,TRUE
+0Y8xQvpbmO02SsFZtamR5A,Long John Silver's,12294 St Charles Rock Rd,Bridgeton,MO,63044,2,19,FALSE,TRUE,TRUE
+FsbGoNUGGJihDpou8T_snQ,TGI Fridays,11228 Lone Eagle Dr,Bridgeton,MO,63044,2,109,FALSE,TRUE,TRUE
+mv8ggKwDehcSqlkrjFQcJA,180 Grill and Bar,12490 St Charles Rock Rd,Bridgeton,MO,63044,2,6,TRUE,TRUE,TRUE
+njKh9tjfZ9yYyBCl_9acBA,Jack in the Box,12298 Saint Charles Rock Rd,Bridgeton,MO,63044,2,19,TRUE,FALSE,TRUE
+KUrVWmKNCzLb1iBgsRyzlw,CVS Pharmacy,12380 St Charles Rock Rd,Bridgeton,MO,63044,2,7,TRUE,FALSE,TRUE
+EAyD-XhoMimnO7ZxOlzKgA,Dairy Queen,1050 E Philadelphia Ave,Gilbertsville,PA,19525,2,6,TRUE,TRUE,TRUE
+I6JrQ5flpGN5C5U7Iyz5uQ,Philly Pretzel Factory,1885 Swamp Pike,Gilbertsville,PA,19525,2,11,TRUE,TRUE,TRUE
+kQimxI9wOXrQjcdfwsOw-g,World of Coffees and Tea,"1811 N 15th St, Ste A",Tampa,FL,33605,2,22,TRUE,TRUE,TRUE
+38yHZCHWgPZlDj5SqdNcpA,Mama Rosa's Pizza,1616 E 7th Ave,Tampa,FL,33605,2,121,TRUE,TRUE,TRUE
+rOTmrvqRvxiWPKlnuUcL2w,Cheezy's Bistro & Speakeasy,1909 N 15th St,Tampa,FL,33605,2,7,FALSE,TRUE,TRUE
+mhK2uIu7F06ypYdQ5ndmzg,McDonald's,3296 Rider Trl S,Earth City,MO,63045,2,9,TRUE,TRUE,TRUE
+SgrFU_8cgwhkly1sS5pZBw,Steak ’n Shake,2221 First Capitol Dr,St. Charles,MO,63301,2,64,TRUE,TRUE,TRUE
+nTSBlrhqzdoKZpRZf426tA,Taco Bell,2203 Droste Rd,Saint Charles,MO,63301,2,16,TRUE,TRUE,TRUE
+UzaUGFMsLZPJa0F83Er0fg,U.S. Bank Branch,2608 W Clay St,St. Charles,MO,63301,2,9,FALSE,FALSE,FALSE
+DTkEBlD5NJc3Y9Mij63-qg,Denny's,1423 S 5th St,Saint Charles,MO,63301,2,63,TRUE,TRUE,TRUE
+ZfMDETGbFq0eAz8qLa5Aqw,Subway,1352 S 5th St,St Charles,MO,63301,2,13,TRUE,TRUE,TRUE
+hWzDs6ZpeAqlKiL2-wMQzw,Pizza Hut,2440 W Clay St,Saint Charles,MO,63301,2,14,TRUE,TRUE,TRUE
+qaw7ne8AorOJWP4trq4GPA,Imo's Pizza,2160 1st Capitol Dr,Saint Charles,MO,63301,2,58,TRUE,TRUE,TRUE
+unyRtubkWWocY4ykotHLnQ,Cecil Whittakers Pizzeria,"2418 W Clay St, Ste B",Saint Charles,MO,63301,2,27,TRUE,TRUE,TRUE
+6xMo7GodnX_7OzvIo9WFWg,Pizza Hut,4443 Pennell Rd,Aston,PA,19014,2,22,TRUE,TRUE,TRUE
+KM4bIHEUEeqpK8innXeybg,Walgreens,3620 Concord Rd,Aston,PA,19014,2,6,FALSE,TRUE,TRUE
+HrprPTeiXHPPlpLJ3wfljw,Walmart Neighborhood Market,1601 W Kennedy Blvd,Tampa,FL,33606,2,29,TRUE,FALSE,TRUE
+YkNfdjwFtleFOOhHTvXUUQ,Walgreens,315 W Platt St,Tampa,FL,33606,2,45,FALSE,TRUE,TRUE
+njmL9FjAekv4rEFz5mBTWg,Pizza Hut,614 W Platt St,Tampa,FL,33606,2,26,TRUE,TRUE,TRUE
+TtFwubbGIKnVsx-0pa7KiQ,McDonald's,1520 W Kennedy Blvd,Tampa,FL,33606,2,58,TRUE,TRUE,TRUE
+tK9HQkreX2_BSUGPhdtpwQ,KFC,1605 W Kennedy Blvd,Tampa,FL,33606,2,22,TRUE,TRUE,TRUE
+TPFn081P757YhaTLiFo6tw,Domino's Pizza,4233 Edgmont Ave,Brookhaven,PA,19015,2,16,TRUE,TRUE,TRUE
+_CbuP1zG_SqkEhVlkSIM1A,Wendy's,3521 Edgemont Avenue,Brookhaven,PA,19015,2,11,TRUE,TRUE,TRUE
+qI0yhw9R1isxkBtO1JpBbA,Chick-fil-A,2551 N Dale Mabry Hwy,Tampa,FL,33607,2,125,FALSE,TRUE,TRUE
+202GrPOZxLVRBLg8HcwSSQ,Chipotle Mexican Grill,2011 N Dale Mabry Hwy,Tampa,FL,33607,2,82,TRUE,TRUE,TRUE
+8fGCwxodHba1u8p3rfv8bw,Burger King,2965 N Dale Mabry Hwy,Tampa,FL,33607,2,28,TRUE,FALSE,TRUE
+MPfPq5gHYOPyWmjNTh_Y5Q,Paracas Tampa,3602 N Armenia Ave,Tampa,FL,33607,2,6,FALSE,TRUE,TRUE
+Rq3Wjcg5ULV2yn-AwcmirA,McDonald's,4009 N Armenia,Tampa,FL,33607,2,18,TRUE,TRUE,TRUE
+Gkfi3qXHH_FHvJ0_omUztg,McDonald's,1905 N Dale Mabry Hwy,Tampa,FL,33607,2,52,TRUE,TRUE,TRUE
+FdLNzJYoe7U05uQSbK4zsA,Sonic Drive-In,2523 North Dale Mabry Hwy,Tampa,FL,33607,2,58,TRUE,TRUE,TRUE
+Za9ilgZ-9VnTJnl2jKlQlA,Subway,2502 N Dale Mabry Hwy,Tampa,FL,33607,2,10,TRUE,TRUE,TRUE
+_69Q6f_Whq0M8Z9HpkRctg,Tropical Smoothie Cafe,2911 N Dale Mabry Hwy,Tampa,FL,33607,2,13,TRUE,TRUE,TRUE
+GQaSzSnRu6VDJNEv6bzA0w,Chipotle Mexican Grill,"2223 NW Shore Blvd, Ste FC 204",Tampa,FL,33607,2,32,TRUE,FALSE,TRUE
+61WfILSR1C9n7jjRnIZehQ,Suki Hana,"2223 N West Shore Blvd, FC 205",Tampa,FL,33607,2,12,FALSE,TRUE,TRUE
+oe5FaeuYjX-1Xr_ViirD9Q,Hardee's,2023 Zumbehl Rd,Saint Charles,MO,63303,2,15,TRUE,TRUE,TRUE
+rX_UB0rdAavVJd6Wr5-o5w,Sonic Drive-In,2001 Old Highway 94 S,Saint Charles,MO,63303,2,22,TRUE,TRUE,TRUE
+2ZLIyUiQ-TQjG3nyfKDnxA,Walmart Supercenter,2897 Veterans Memorial Pkwy,St Charles,MO,63303,2,32,TRUE,FALSE,TRUE
+0VbQPOI8LqNpSmW4rcEMdQ,Pizza Hut,1608 Country Club Place Dr.,Saint Charles,MO,63303,2,14,TRUE,TRUE,TRUE
+Ym8E4Lgi3IfH53YuG5WxIg,Golden Corral Buffet & Grill,1850 Zumbehl Road,Saint Charles,MO,63303,2,34,TRUE,TRUE,TRUE
+FJCgmzfjlHgaRstj2tMAdw,Taco Bell,101 Niagara St.,East Alton,IL,62024,2,7,TRUE,TRUE,TRUE
+6OnGimVNFS7Q2F8GRzuvog,Sonic Drive-In,103 Niagara St,East Alton,IL,62024,2,10,TRUE,TRUE,TRUE
+QxT9M4trDTfAJc0fOWuNIg,CVS Pharmacy,1 West White Horse Pike,Berlin,NJ,8009,2,9,TRUE,FALSE,TRUE
+CP0ozlSic2l34x8Ovz4cYg,Dunkin',235 S. White Horse Pike,Berlin,NJ,8009,2,7,TRUE,TRUE,TRUE
+JQI0oBeRi5Q_Gg7cYNGL7Q,ShopRite of Berlin,200 Rte 73 N,Berlin,NJ,8009,2,13,TRUE,TRUE,TRUE
+Bnc1g-D9sHTtBAF6STvC-A,Verizon,714 S Dale Mabry Hwy,Tampa,FL,33609,2,17,TRUE,TRUE,TRUE
+4wy0zuo-j7uOckJeoJw4uQ,Nosh,111 S Dale Mabry Hwy,Tampa,FL,33609,2,57,FALSE,TRUE,TRUE
+dYfBaOaV6bD9qM6atdMfzw,Burger King,611 S Dale Mabry Hwy,Tampa,FL,33609,2,18,TRUE,FALSE,TRUE
+hyXrO6RoAi5GnTl8s72Pkw,Burger King,4565 W Kennedy Blvd,Tampa,FL,33609,2,34,TRUE,FALSE,TRUE
+8bvmIUL9ApvwWF0bds4zpQ,Pizza Hut,402 S Dale Mabry Hwy,Tampa,FL,33609,2,37,TRUE,TRUE,TRUE
+8iW9nmiG1EcfhWdmfbAuGw,CVS Pharmacy,102 S Dale Mabry Hwy,Tampa,FL,33609,2,13,TRUE,FALSE,TRUE
+2yrg5ZIlKufnRpP5GEbPiQ,Pizza Hut,2386 Troy Rd,Edwardsville,IL,62025,2,17,TRUE,TRUE,TRUE
+oPWvL0CffDnoastm_48SRg,Beauty Brands,6659 Edwardsville Crossing Dr,Edwardsville,IL,62025,2,20,FALSE,FALSE,TRUE
+C_nkKXkN80Jwwcv5bhC_Tw,QDOBA Mexican Eats,"2100 Troy Rd, Ste 5",Edwardsville,IL,62025,2,34,TRUE,TRUE,TRUE
+pBGQqWycY1-B1L1nYoBXvA,Steak ’n Shake,2382 Troy Rd,Edwardsville,IL,62025,2,41,TRUE,TRUE,TRUE
+QuylwijIe5s-KTe5aIUguQ,China King,"1063 S State Rt 157, Ste 10",Edwardsville,IL,62025,2,23,TRUE,TRUE,TRUE
+lVuGKyZ29_ysUtuIGkMEWw,Applebee's,21 Dillon Plaza Dr,High Ridge,MO,63049,2,5,FALSE,TRUE,TRUE
+nRv9MgxFMhONywEpxyI6uw,McDonald's,4295 Us-130,Beverly,NJ,8010,2,15,TRUE,TRUE,TRUE
+QlcQ6cBSKfK_upcBhAt8Yg,Wawa,4167 S Route 130,Edgewater Park,NJ,8010,2,12,TRUE,TRUE,TRUE
+uDsr1guHz4G8fBvrZHpoPA,KFC,5311 W Baltimore Ave,Clifton Heights,PA,19018,2,26,TRUE,TRUE,TRUE
+e7Gz3lB7LwH-qTzUqqtZsA,Boston Market,5200 Baltimore Park,Clifton Heights,PA,19018,2,24,TRUE,TRUE,TRUE
+A5rMPen8GlDU6fabdbMbpg,Pizza Hut,300 W Baltimore Pike,Clifton Heights,PA,19018,2,15,TRUE,TRUE,TRUE
+YQGfrfdW3hwobwHGIydiRw,Goodyear Auto Service,"273 W Baltimore Ave, Ste 281",Clifton Heights,PA,19018,2,9,FALSE,TRUE,TRUE
+5cpb23lEQ5brolyKRVBhgA,McDonald's,531 Baltimore Pike,Clifton Heights,PA,19018,2,17,TRUE,TRUE,TRUE
+eS9OxTalkEcOuUwPAJYQ7A,Denny's,5321 W Baltimore Pike,CLIFTON HEIGHTS,PA,19018,2,63,FALSE,TRUE,TRUE
+OKKmFiXV0X3uTJmU2LdESA,Hungry Howie's Pizza & Subs,6207 E Hillsborough,Tampa,FL,33610,2,9,TRUE,TRUE,TRUE
+kAhT_pFlNuL3yfhKrpYRWQ,McDonald's,1908 E Hillsborough Ave,Tampa,FL,33610,2,23,TRUE,TRUE,TRUE
+-FIYPnxsg3kuHXx46zY18w,Denny's,5603 E Hillsborough,Tampa,FL,33610,2,50,TRUE,TRUE,TRUE
+8z0MdXn-oeGgIyq7hU63Fg,Steak ’n Shake,5917 E Hillsborough Ave,Tampa,FL,33610,2,53,TRUE,TRUE,TRUE
+nOry_Gpzt05z0yELmXBFcg,Walmart Supercenter,1720 E Hillsborough Ave,Tampa,FL,33610,2,26,TRUE,FALSE,TRUE
+bxSy7cZC6OFXNLAV2QPOTw,Dunkin',3512 E Hillsborough Ave,Tampa,FL,33610,2,28,TRUE,TRUE,TRUE
+J8j18KB--ZH4MjTQryPEpA,Burger King,4403 W Gandy Blvd,Tampa,FL,33611,2,11,TRUE,FALSE,TRUE
+llscutPmO-mUdNce1CJmDw,Wendy's,4314 Gandy Blvd,Tampa,FL,33611,2,35,TRUE,TRUE,TRUE
+eiGYExjwL-rxl7rP6i4trQ,Jimmy John's,4248 S Dale Mabry Hwy,Tampa,FL,33611,2,28,TRUE,TRUE,TRUE
+hNBHvMSy3SQeVHfGI4vHKQ,Buffalo Wild Wings,4015 S Dale Mabry Hwy,Tampa,FL,33611,2,139,TRUE,TRUE,TRUE
+Kyey3rqsPuNOgGlXuiqezQ,Chipotle Mexican Grill,3696 W Gandy Blvd,Tampa,FL,33611,2,100,TRUE,TRUE,TRUE
+lLhm-u5kDFVHViFAFHDFqQ,Applebee's Grill + Bar,4411 W Gandy Blvd,Tampa,FL,33611,2,81,TRUE,TRUE,TRUE
+R6a2iSKadKb9YO9tYNZoqA,KFC,4402 W Gandy Blvd,Tampa,FL,33611,2,26,TRUE,TRUE,TRUE
+EGITUFVLb87GRKapMtZg-w,Dunkin',3820 S Dale Mabry Hwy,Tampa,FL,33611,2,42,TRUE,TRUE,TRUE
+pXxYdmtrWY_gl7ezGFyM_g,Estela's,4015 S Dale Mabry Hwy,Tampa,FL,33611,2,27,FALSE,TRUE,TRUE
+nROgQ9JIN0sjv-i5R1rHcA,McDonald's,4818 S Manhattan,Tampa,FL,33611,2,21,TRUE,TRUE,TRUE
+z3WpAnlR_qs_ypgloGikZg,Verizon,5700 Route 42,Turnersville,NJ,8012,2,7,TRUE,TRUE,TRUE
+FId1uY73JcswBn6oz5gTEQ,McDonald's,1521 Blackwood Clementon Rd,Blackwood,NJ,8012,2,24,TRUE,TRUE,TRUE
+hjHWlYtCRLg7CjAIvtUGGg,Dunkin',651 College Dr,Blackwood,NJ,8012,2,12,TRUE,TRUE,TRUE
+1kzNeQbACsnSGR0ubpsNbQ,McDonald's,5801 NJ-42,Turnersville,NJ,8012,2,7,TRUE,TRUE,TRUE
+bcG5ySKHYxP0NtqCewbcCQ,Dunkin',5751 Route 42 South,Turnersville,NJ,8012,2,12,TRUE,TRUE,TRUE
+btYJ5G9Vf5j9V3XpLhkMDw,Arby's,5600 Rte 42,Blackwood,NJ,8012,2,11,TRUE,TRUE,TRUE
+raK6mV7gnMsGlaXlr4jwTg,Sakura,5360 Rt 42 N,Blackwood,NJ,8012,2,34,TRUE,TRUE,TRUE
+aGV5zHNAIiD6_m48Tp2TnQ,Papa John's Pizza,2747 Street Road,Bensalem,PA,19020,2,23,TRUE,TRUE,TRUE
+aVslIwCbkM8zEKcJ_c9qIg,TGI Fridays,3301 Street Rd,Bensalem,PA,19020,2,154,TRUE,TRUE,TRUE
+1GQexCAjyG7DXClC0TU4Pg,Walgreens,2435 Street Rd,Bensalem,PA,19020,2,6,FALSE,TRUE,TRUE
+yzz9gwayRptbwV7l5cHtRQ,McDonald's,1240 Bristol Pike,Bensalem,PA,19020,2,20,TRUE,TRUE,TRUE
+nXITcMHchXTV0cHPvANOXw,Little Caesars Pizza,1984 St Rd,Bensalem,PA,19020,2,8,FALSE,TRUE,TRUE
+8AjadowW4RO2t3hKEPppiA,Dairy Queen,3569 Hulmeville Rd,Bensalem,PA,19020,2,10,TRUE,TRUE,TRUE
+Jo2zJoA818OmbiE-6HfghA,Golden Corral Buffet & Grill,1465 Street Rd,Bensalem,PA,19020,2,114,TRUE,TRUE,TRUE
+LFoKjY1pvOgtVPOMjEwARw,Wendy's,2041 Street Rd.,Bensalem,PA,19020,2,21,TRUE,TRUE,TRUE
+xxq8O3Z1HGJjk4qqSdn1ag,ACME Markets,"1336 Bristol Pike, Ste 100",Bensalem,PA,19020,2,10,TRUE,TRUE,TRUE
+RPgiI4k8cSwta5C2gFkfTQ,Dunkin',330 W. Fletcher Ave,Tampa,FL,33612,2,34,TRUE,TRUE,TRUE
+CREJoOA96P4ggzJCBhi5Xw,Burger King,9211 N Florida Ave,Tampa,FL,33612,2,11,TRUE,FALSE,TRUE
+y3iKFTk_sgIXCT6fNcBn_Q,Chili's,2794 E Fowler Ave,Tampa,FL,33612,2,114,TRUE,TRUE,TRUE
+3KXox3bYCZN4fapNpJ9LXA,Chicago Street Pizza,2770 University Square Dr,Tampa,FL,33612,2,16,TRUE,TRUE,TRUE
+BDRIMu8pQ_XCcTIq5Q69Lg,Steak ’n Shake,1450 E Fowler Ave,Tampa,FL,33612,2,82,TRUE,TRUE,TRUE
+crW3WgVBvfE14EzHD8jClA,McDonald's,2205 E Fletcher Ave,Tampa,FL,33612,2,24,TRUE,TRUE,TRUE
+Ljtd29uAWCaGK046QuvPhQ,Popeyes Louisiana Kitchen,2701 E Busch Blvd,Tampa,FL,33612,2,18,TRUE,TRUE,TRUE
+8tKV2XCp-kyKKxrScmOdtw,Chick-fil-A,2811 E Fowler Ave,Tampa,FL,33612,2,26,FALSE,TRUE,TRUE
+z06yuwkwWjgXAxnlZKg1yw,Popeyes Louisiana Kitchen,2216 Fletcher Ave,Tampa,FL,33612,2,28,TRUE,TRUE,TRUE
+WbI0hy9A41X0rYk3oKqnDw,China Buffet,1245 E Fowler Ave,Tampa,FL,33612,2,77,FALSE,TRUE,TRUE
+ZDDoqzGHYVTxIKObhZHQLw,Burger King,3009 E Busch Blvd,Tampa,FL,33612,2,6,TRUE,FALSE,TRUE
+NkDRMO8n4FHQLnWxbfstXQ,Franco's Pizza Ristorante,"1515 E Fletcher Ave, Ste B&C",Tampa,FL,33612,2,7,TRUE,TRUE,TRUE
+b1QnW6xZOxVXMeA8r0cVxg,Pizza Hut,2550 E. Fowler Ave.,Tampa,FL,33612,2,36,TRUE,TRUE,TRUE
+QLcmgt82NZkQiifVDA9sbQ,Jack in the Box,1202 Main St,Imperial,MO,63052,2,9,TRUE,FALSE,TRUE
+7_mN08RcG_2S0Q4qMT2BdQ,Domino's Pizza,1271 Main St,Imperial,MO,63052,2,13,TRUE,TRUE,TRUE
+DA_h6Kz5382NcSm4D6r_lQ,Taco Bell,2031 E Bearss Ave,Tampa,FL,33613,2,21,TRUE,TRUE,TRUE
+uiWgs7U5wiCaysqTly6FlQ,Checkers,2598 Bearss Avenue East,Tampa,FL,33613,2,17,TRUE,TRUE,TRUE
+E_gs5LBMr7SlNDbbq4_05Q,Popeyes Louisiana Kitchen,14901 N Florida Ave,Tampa,FL,33613,2,33,TRUE,TRUE,TRUE
+GCy7T_i5RHSVuVGaUp9ILA,Walmart,1570 Chester Pike,Eddystone,PA,19022,2,26,TRUE,FALSE,TRUE
+SuUzdrfo5lhR8mf7iVP0dw,Popeyes Louisiana Kitchen,1530 Chester Pike,Eddystone,PA,19022,2,15,TRUE,TRUE,TRUE
+y-B-ukhP-i4D6ZGwTl2jRg,Taco Bell,3803 West Minnehaha Street,Tampa,FL,33614,2,21,TRUE,TRUE,TRUE
+ffc52M0EHgEYQ9I1WqYzBQ,Domino's Pizza,7229 N Dale Mabry Hwy,Tampa,FL,33614,2,12,TRUE,TRUE,TRUE
+_Y6BtWLCjX-PuqoRLRg7qg,KFC,8550 N Dale Mabry Hwy,Tampa,FL,33614,2,22,TRUE,TRUE,TRUE
+MGTGCBCVTfWlWPzHX8iyaQ,Walmart Supercenter,8220 N Dale Mabry Hwy,Tampa,FL,33614,2,22,TRUE,FALSE,TRUE
+y6aBgF8SQ3PpR6AaWuvIZQ,Popeyes Louisiana Kitchen,2619 W Waters Ave,Tampa,FL,33614,2,38,TRUE,TRUE,TRUE
